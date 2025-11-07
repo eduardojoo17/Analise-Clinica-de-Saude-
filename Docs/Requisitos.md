@@ -5,14 +5,14 @@
 
   <h3>Cliente</h3>
   <ul>
-    <li><strong>RF01</strong> – Acesso online multiplataforma (web e mobile) para pacientes.</li>
-    <li><strong>RF02</strong> – Autoatendimento para agendar, cancelar e consultar horários 24/7.</li>
-    <li><strong>RF03</strong> – Cadastro de usuário com autenticação (e-mail) e login por senha.</li>
-    <li><strong>RF04</strong> – Exibição de especialidades disponíveis (área de especialidades).</li>
-    <li><strong>RF05</strong> – Visualização dos horários disponíveis de cada clínica/médico.</li>
-    <li><strong>RF06</strong> – Área de agendamento com possibilidade de cancelamento.</li>
-    <li><strong>RF07</strong> – Envio de notificações e lembretes ao paciente (e-mail/SMS).</li>
-    <li><strong>RF08</strong> – Atualização de dados pessoais pelo paciente (telefone, e-mail, endereço).</li>
+    
+    <li><strong>RF01</strong> – Autoatendimento para agendar, cancelar e consultar horários 24/7.</li>
+    <li><strong>RF02</strong> – Cadastro de usuário com autenticação (e-mail) e login por senha.</li>
+    <li><strong>RF03</strong> – Exibição de especialidades disponíveis (área de especialidades).</li>
+    <li><strong>RF04</strong> – Visualização dos horários disponíveis de cada clínica/médico.</li>
+    <li><strong>RF05</strong> – Área de agendamento com possibilidade de cancelamento.</li>
+    <li><strong>RF06</strong> – Envio de notificações e lembretes ao paciente (e-mail/SMS).</li>
+    <li><strong>RF07</strong> – Atualização de dados pessoais pelo paciente (telefone, e-mail, endereço).</li>
   </ul>
 
   <h3>Atendente / Recepção</h3>
@@ -37,6 +37,7 @@
     <li><strong>RNF03</strong> – Acessibilidade e responsividade: interface compatível e usável em computadores, tablets e smartphones.</li>
     <li><strong>RNF04</strong> – Disponibilidade: sistema disponível 24/7, com janelas de manutenção agendadas. (correção: este item é não funcional, antes estava como RF)</li>
     <li><strong>RNF05</strong> – Usabilidade e intuitividade: interface simples e clara para públicos diversos (pacientes jovens e adultos, recepcionistas, médicos).</li>
+    <li><strong>RF06</strong> – Acesso online multiplataforma (web e mobile) para pacientes.</li>
   </ul>
 
   <h2>Regras de Negócio (RN)</h2>
