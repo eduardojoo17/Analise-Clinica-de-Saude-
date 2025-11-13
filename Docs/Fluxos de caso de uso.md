@@ -74,6 +74,12 @@
 - Escolher consulta para cancelamento.
 - Cancelamento confirmado.
 
+#### - Fluxo Alternativo
+- Usuário seleciona o campo de cancelamento.
+- Usuário escolhe a consulta a ser cancelada.
+- O sistema verifica o horário e identifica que o prazo permitido para cancelamento foi excedido.
+-O sistema exibe mensagem informando que não é mais possível cancelar a consulta, pois o prazo expirou.
+
 
 
 
